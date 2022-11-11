@@ -18,5 +18,5 @@ if(comando === "listar"){
 }else if(typeof comando === "undefined"){
     console.log('Debes ingresar un comando!!!');
 }else{
-    console.log('Comando incorrecto');
+    console.log('Comando incorrecto se modifico archivo para ejercitacion');
 }
